@@ -18,12 +18,12 @@ Whether you're looking for a casual chat, answers to questions, or just a bit of
 Clone the project
 
 ```bash
-  git clone https://github.com/its-joseph-230606/LlamaV2-Light-weight.git
+  git clone https://github.com/its-joseph-230606/LlamaGPT.git
 ```
 
 Go to the project directory
 ```bash
-  cd LlamaV2-Light-weight
+  cd LlamaGPT
 ```
 ```bash
   pip install -r requirements.txt
