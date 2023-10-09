@@ -1,6 +1,7 @@
 
 # Llama V2 Light weight Edition
 ![size](https://img.shields.io/github/repo-size/its-joseph-230606/LlamaGPT)
+![contributers](https://img.shields.io/github/contributors-anon/its-joseph-230606/LlamaGPT)
 
 🚀 Release Description for LlamaV2 Chatbot 🤖
 
