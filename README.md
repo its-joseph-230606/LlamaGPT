@@ -55,6 +55,6 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 
 
 
-![Logo](https://static-00.iconduck.com/assets.00/python-icon-2048x2048-14d2d6l2.png)
+![Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLHR3AaCdiL9XxCgUZIwKa1aPqhuGckRD-hA&usqp=CAU)
 
 
